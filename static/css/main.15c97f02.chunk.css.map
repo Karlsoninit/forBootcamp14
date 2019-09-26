@@ -1,0 +1,1 @@
+{"version":3,"sources":["AddedNewPost.module.css"],"names":[],"mappings":"AAAA,8BACI,UAAW,CAEX,YAAa,CACb,WAA+B,CAA/B,8BACJ","file":"main.15c97f02.chunk.css","sourcesContent":[".getValue {\n    width: 100%;\n    border: none;\n    outline: none;\n    border-bottom: 1px solid tomato;\n}"]}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/forBootcamp14/static/css/main.15c97f02.chunk.css",
+    "main.js": "/forBootcamp14/static/js/main.719d2730.chunk.js",
+    "main.js.map": "/forBootcamp14/static/js/main.719d2730.chunk.js.map",
+    "runtime-main.js": "/forBootcamp14/static/js/runtime-main.584a7a03.js",
+    "runtime-main.js.map": "/forBootcamp14/static/js/runtime-main.584a7a03.js.map",
+    "static/js/2.7f5b6cce.chunk.js": "/forBootcamp14/static/js/2.7f5b6cce.chunk.js",
+    "static/js/2.7f5b6cce.chunk.js.map": "/forBootcamp14/static/js/2.7f5b6cce.chunk.js.map",
+    "index.html": "/forBootcamp14/index.html",
+    "precache-manifest.0845c103158209958942dbff108650cd.js": "/forBootcamp14/precache-manifest.0845c103158209958942dbff108650cd.js",
+    "service-worker.js": "/forBootcamp14/service-worker.js",
+    "static/css/main.15c97f02.chunk.css.map": "/forBootcamp14/static/css/main.15c97f02.chunk.css.map"
+  }
+}
